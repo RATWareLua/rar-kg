@@ -101,6 +101,7 @@ ChaCha20 проверен по вектору RFC 8439, включая чтен�
 | 7.11 | OK | 4/4 | `WinRAR-Архив (evaluation copy)` | `WinRAR-Архив` |
 | 7.12 | OK | 4/4 | `WinRAR-Архив (evaluation copy)` | `WinRAR-Архив` |
 | 7.13 | OK | 4/4 | `WinRAR-Архив (evaluation copy)` | `WinRAR-Архив` |
+| 7.23 | OK | 4/4 | `WinRAR-Архив (evaluation copy)` | `WinRAR-Архив` |
 
 Дополнительно:
 * 7.13 под отладчиком: флаг регистрации `byte_140268600 = 1`, имя из ключа записано;
